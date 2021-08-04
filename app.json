@@ -1,12 +1,13 @@
 {
   "expo": {
     "name": "ColorCatalog",
+    "description": "Catalog your colors. Save your favourite web colors in a list and view details for each color. Designed by: Jidonu Segun",
     "slug": "ColorCatalog",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/segunLogo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/segunLogo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -20,6 +21,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "Jidonu.Segun.ColorCatalog",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
